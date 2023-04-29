@@ -17,13 +17,13 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Have a productive morning,',
+	greetingAfternoon: 'Have a motivated afternoon,,',
+	greetingEvening: 'Have a pleasant evening,,',
+	greetingNight: 'Go to bed,',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '759f40e1a5923c627438fdf35d47ca98', // Write here your API Key
@@ -55,25 +55,25 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/oudemia',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'ILIAS',
+			icon: 'landmark',
+			link: 'https://ilias.studium.kit.edu/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'scale',
+			icon: 'rocket',
+			link: 'https://scale.iti.kit.edu/teaching/2023ss/algo1/start',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'ConstLog',
+			icon: 'hammer',
+			link: 'https://symbolaris.com/course/constlog.html',
 		},
 		{
 			id: '5',
