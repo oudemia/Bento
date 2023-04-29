@@ -18,8 +18,8 @@ const CONFIG = {
 
 	// Greetings
 	greetingMorning: 'Have a productive morning,',
-	greetingAfternoon: 'Have a motivated afternoon,,',
-	greetingEvening: 'Have a pleasant evening,,',
+	greetingAfternoon: 'Have a motivated afternoon,',
+	greetingEvening: 'Have a pleasant evening,',
 	greetingNight: 'Go to bed,',
 
 	// Layout
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Wolfram Alpha',
+			icon: 'star',
+			link: 'https://www.wolframalpha.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Invidious',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://invidious.snopyta.org/feed/popular',
 		},
 	],
 
